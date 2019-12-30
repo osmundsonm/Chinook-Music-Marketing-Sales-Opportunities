@@ -1,2 +1,6 @@
 # Chinook-Music-Marketing-Sales-Opportunities
-An analysis of future sales focus by country and genre.
+An ongoing analysis of future sales focus by country and genre.
+
+Files:
+Chinook Music Sales Analysis: contains code, tables, and recommendations for Chinook music sales.
+
